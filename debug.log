@@ -1,0 +1,4 @@
+[0507/193016.553:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
+[0507/193016.663:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
+[0507/193016.678:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0507/193016.746:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
