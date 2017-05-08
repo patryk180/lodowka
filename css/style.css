@@ -1,0 +1,33 @@
+.day {
+	display: inline-flex;
+}
+
+#container {
+	width: 100%;
+}
+
+#month {
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+	background-color: #CCCCFF;
+	padding: 10px 0px 10px 0px;
+}
+
+#calendar {
+	width: 75%;
+	margin: 0 auto;
+}
+
+.day {
+	height: 8em;
+	background-color: #9999FF;
+	color: white;
+	font-weight: bold;
+}
+
+.day:hover {
+	background-color: #6666CC;
+}

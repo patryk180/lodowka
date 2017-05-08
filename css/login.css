@@ -1,0 +1,25 @@
+#container {
+	margin: 0 auto;
+	width: 20%;
+	margin-top:250px;
+	background-color: #CCCCFF;
+	padding: 20px;
+	border-radius:20px;
+	border: 2px solid blue;
+}
+
+#container a {
+	text-decoration: none;
+	color: black;
+	font-weight:bold;
+}
+
+#container a:hover {
+	text-decoration: none;
+	color: #330066;
+	font-weight:bold;
+}
+
+input {
+	float:right;
+}
