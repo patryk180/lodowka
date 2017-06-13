@@ -6,6 +6,8 @@
 		<link rel="stylesheet" href="css/login.css" />
 	</head>
 	<body>
+			<div id="container">
+			
 			
 					
 					<p>REJESTRACJA<p><br />
@@ -17,6 +19,6 @@
 				<p>haslo<input type="text" /></p>
 			<input type="submit" value="Zarejestruj"/><br /><br />
 			</form>
-		
+		</div>
 	</body>
 </html>

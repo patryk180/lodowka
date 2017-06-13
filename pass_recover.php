@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="css/login.css" />
 	</head>
 	<body>
-			
+			<div id="container">
 					
 					<p>Zapomniałeś hasła?<p><br />
 					<a href="login.php">Zaloguj ponownie</a>
@@ -16,6 +16,6 @@
 				<p>Pomocniczy e-mail<input type="text" /></p><br /><br />
 			<input type="submit" value="Wyślij"/><br /><br />
 			</form>
-		
+			</div>
 	</body>
 </html>
