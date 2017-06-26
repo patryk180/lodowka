@@ -12,14 +12,16 @@
 			<div id="naglowek">
 			
 			<form action="index.php">
-				<p style="text-align:center;margin:0;">Witaj w programie <strong>Lodówka!</strong></p>
-				<p style="text-align:center;margin:0;">Zaloguj się, aby rozpocząć</p><br /><br />
-				<label>Login:<input type="text" /></label><br /><br />
-				<label>Hasło: <input type="password" /></label><br /><br />
+				<h1>LODÓWKA</h1><br/>
+				<a>LOGIN<input type="text" /></a>
+				<a>HASLO<input type="password" />
 				<input type="submit" value="Zaloguj" /><br /><br />
-				<a href="pass_recover.php">Zapomniałeś hasła?</a><br />
-				<a href="register.php">Zarejestruj się</a></div>
-				
+				<a href="pass_recover.php">Zapomniałeś hasła?</a><br /><hr/></div>
+			<div id="mid"></div>
+			<div id="reg"></div>
+			<div id="stopka"><hr/>
+			<a> &copy; Copyright 2017 by szmyt,malisha,xyrowvin,patryk<br/> All rights reserved </a>
+			</div>
 			</form>
 		</div>
 	</body>
